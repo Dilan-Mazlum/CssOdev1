@@ -1,0 +1,218 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-weight: bold;
+ 
+
+}
+
+ h2{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+
+} 
+  h3{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 2;
+}   
+p{
+    color: #8f8f8f;
+}
+
+/* heading */
+.big-heading{
+    font-family: 'Merriweather', serif;
+    size: 3.5rem;
+    font-weight:bolder;
+    line-height: 2;
+
+}
+
+.container-fluid{
+    padding: 2% 15% 7%;
+
+}
+
+.features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+
+}
+
+i{
+    color: #AEDEFC;
+    margin-bottom: 1rem;
+
+}
+i:hover{
+    color: #FFDFDF;
+}
+
+
+
+#title{
+    background-color: #F875AA;
+    color:white;
+    line-height: 4;
+    text-align: left;
+    
+}
+
+
+/* Navigation bar */
+
+.navbar{
+    padding-bottom:0 0  4.5rem;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 1.2rem;
+}
+/* Sownload buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0;
+
+}
+
+/* Image Title */
+
+.image-title{
+    width: 49%;
+    height: auto;
+    position: absolute;
+    bottom: 0%;
+
+}
+
+/* testimonials section */
+
+#testimonials{
+    padding: 7% 15%;
+    background-color: #F875AA;
+    color: #fff;
+}
+.testimonials-image{
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* testimonial-text{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+} */
+.carousel-item{
+    padding: 7% 15%;
+ }
+
+/* #press{
+    background-color: #F875AA;
+    padding-bottom: 3%;
+}  */
+/* .press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+} 
+
+/* pricing section */
+#pricing{
+    padding: 100px;
+}
+.price-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.pricing-column {
+    padding: 3% 2%;
+}
+section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+@media(max-width:1028px){
+    #title{
+        text-align: center;
+    }
+
+    .image-title{
+        position: static;
+        width: 50%;
+        transform: rotate(0);
+    }
+    
+}
+ /* call to action section */
+#cta{
+    padding: 7% 15%;
+    background-color: #F875AA;
+
+}
+
+ .cta-h3{
+
+    color: white;
+    font-family: 'Montserrat-Black',sans-serif;
+    font-weight: bold;
+    font-size:3rem ;
+
+ }
+
+ /* footer */
+ #footer{
+    padding-top: 2%; 
+    background-color: #fff;
+    line-height: 2;
+
+ }
+
+ input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #AEDEFC;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #F875AA;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #FFDFDF;
+    padding: 20px;
+  }
