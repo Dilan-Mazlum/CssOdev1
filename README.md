@@ -6,8 +6,3 @@
 ![home3](https://github.com/Dilan-Mazlum/CssOdev1/assets/73706556/5716d930-58cc-42dd-afdd-f5321b852e61)
 ![home4](https://github.com/Dilan-Mazlum/CssOdev1/assets/73706556/429233d2-4a79-44f4-b008-4fb20cb454cb)
 ![home5](https://github.com/Dilan-Mazlum/CssOdev1/assets/73706556/402231a9-acc4-4840-a616-ffdb7092f1ad)
-
-
-
-
- 
